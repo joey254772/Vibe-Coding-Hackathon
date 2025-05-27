@@ -1,2 +1,2 @@
 # Vibe-Coding-Hackathon
-http://market-price-tracker.rork.app/
+https://patient-reminder-central.lovable.app/
